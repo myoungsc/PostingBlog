@@ -25,4 +25,6 @@
 
 생리현상은 살면서 누구나 겪는 매우 자연스러운 현상입니다. 우리의 몸은 항상성을 유지하기 위해 다양한 활동을 하고 있으며 이때 불필요한 것들을 배출하는 것이 바로 생리현상이다. 즉 참으면 병에 걸립니다.
 
+
+### 어플리케이션 이미지
 ![](https://github.com/myoungsc/PostingBlog/blob/master/BlogImage/app_toilet/app_toilet01.jpg?raw=true) ![](https://github.com/myoungsc/PostingBlog/blob/master/BlogImage/app_toilet/app_toilet02.jpg?raw=true) ![](https://github.com/myoungsc/PostingBlog/blob/master/BlogImage/app_toilet/app_toilet03.jpg?raw=true) ![](https://github.com/myoungsc/PostingBlog/blob/master/BlogImage/app_toilet/app_toilet04.jpg?raw=true)
