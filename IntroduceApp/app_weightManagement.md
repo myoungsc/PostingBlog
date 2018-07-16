@@ -28,3 +28,4 @@
 (* BMI(체질량 지수)는 인간의 비만도를 나타내는 지수로, 체중과 키의 관계로 계산됩니다.)
 
 ### 앱 이미지
+![](https://github.com/myoungsc/PostingBlog/blob/master/BlogImage/app_weightManagement/app_weightManagement01.jpg?raw=true) ![](https://github.com/myoungsc/PostingBlog/blob/master/BlogImage/app_weightManagement/app_weightManagement02.jpg?raw=true) ![](https://github.com/myoungsc/PostingBlog/blob/master/BlogImage/app_weightManagement/app_weightManagement03.jpg?raw=true) ![](https://github.com/myoungsc/PostingBlog/blob/master/BlogImage/app_weightManagement/app_weightManagement04.jpg?raw=true) ![](https://github.com/myoungsc/PostingBlog/blob/master/BlogImage/app_weightManagement/app_weightManagement05.jpg?raw=true)
